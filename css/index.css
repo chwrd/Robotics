@@ -26,3 +26,8 @@
   transform: translate(-50%, -50%);
   color: white;
 }
+
+.card{
+  margin-bottom: 2vh;
+  margin-top: 2vh;
+}
