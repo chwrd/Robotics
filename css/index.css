@@ -27,7 +27,11 @@
   color: white;
 }
 
+/* Card */
+.container{
+  margin: 20vh auto;
+}
+
 .card{
-  margin-bottom: 2vh;
-  margin-top: 2vh;
+margin: 2vh auto;
 }
