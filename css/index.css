@@ -1,6 +1,6 @@
 
 
-
+/* Main Body */
 
 /* The hero image */
 .hero-image {
@@ -27,7 +27,22 @@
   color: white;
 }
 
+
+/* Navbar */
+.navbar{
+  color: var(--text);
+}
+
+/* Card */
+.container{
+  margin: 10vh auto;
+}
+
 .card{
   margin-bottom: 2vh;
   margin-top: 2vh;
+}
+
+.card-body, .card-title, .card-text{
+background-color: var(--content);
 }
