@@ -1,7 +1,3 @@
-
-
-
-
 /* The hero image */
 .hero-image {
   /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
@@ -28,10 +24,24 @@
 }
 
 /* Card */
-.container{
+.container {
   margin: 20vh auto;
 }
 
-.card{
-margin: 2vh auto;
+.card {
+  margin: 2vh auto;
+}
+
+.navbar {
+  background-color: transparent !important;
+  /* mix-blend-mode: exclusion; */
+}
+
+.navbar-nav .nav-link.active,
+.navbar-brand {
+  color: white;
+}
+
+.navbar-nav .nav-link {
+  color: #ffffff88;
 }
