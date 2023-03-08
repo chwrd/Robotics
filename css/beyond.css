@@ -1,9 +1,6 @@
 .FutureRoversTitle{
-    position: fixed;
-width: 434px;
-height: 90px;
-left: 503px;
-top: 87px;
+    margin-left: 50%;
+    text-align: center;
 
 font-family: 'Arial';
 font-style: normal;
