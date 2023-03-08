@@ -1,0 +1,20 @@
+.FutureRoversTitle{
+    position: absolute;
+width: 434px;
+height: 90px;
+left: 503px;
+top: 87px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 140%;
+/* identical to box height, or 90px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #060606;
+}
