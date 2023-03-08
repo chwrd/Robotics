@@ -24,10 +24,6 @@
 }
 
 /* Card */
-.container {
-  margin: 20vh auto;
-}
-
 .card {
   margin: 3vh auto;
   border: none;
@@ -46,5 +42,3 @@
 .navbar-nav .nav-link {
   color: #ffffff88;
 }
-
-
