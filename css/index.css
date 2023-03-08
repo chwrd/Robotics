@@ -24,12 +24,9 @@
 }
 
 /* Card */
-.container {
-  margin: 20vh auto;
-}
-
 .card {
-  margin: 2vh auto;
+  margin: 3vh auto;
+  border: none;
 }
 
 .navbar {
