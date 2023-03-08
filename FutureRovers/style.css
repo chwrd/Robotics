@@ -1,9 +1,8 @@
 .beyond-future, .beyond-future * { box-sizing: border-box; }.beyond-future {
       background: #ffffff;
+      opacity: 0.30000001192092896;
       width: 1440px; height: 1024px;
-      
       position: relative;
-      margin-left: 250px;
       overflow: hidden;
     }
  .footer {
