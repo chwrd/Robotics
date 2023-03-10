@@ -1,13 +1,14 @@
-main{
-    display: flex;
+
+/* Main Body */
+.bio{
+    margin-top: 7vh;
+    padding-left: 20vw;
+padding-right: 20vw;
 }
-.carousel-item{
-    margin: auto;
-    width: 50vw;
-}
-.carousel-inner{
-    margin:auto;
-}
-.carousel-indicators{
-    margin:auto;
-}
+
+/* Card */
+.card {
+    margin: 10vh 10vw;
+
+  }
+
