@@ -9,6 +9,9 @@ padding-right: 20vw;
 /* Card */
 .card {
     margin: 10vh 10vw;
+}
 
-  }
-
+.card img{
+    height: 100%;
+    object-fit: cover;
+}
