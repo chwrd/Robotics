@@ -1,8 +1,13 @@
 main{
     display: flex;
 }
-.carousel img{
-    width: 40vw !important;
-    object-fit: cover;
+.carousel-item{
     margin: auto;
+    width: 50vw;
+}
+.carousel-inner{
+    margin:auto;
+}
+.carousel-indicators{
+    margin:auto;
 }
