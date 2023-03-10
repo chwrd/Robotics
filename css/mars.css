@@ -1,1 +1,13 @@
-
+main{
+    display: flex;
+}
+.carousel-item{
+    margin: auto;
+    width: 50vw;
+}
+.carousel-inner{
+    margin:auto;
+}
+.carousel-indicators{
+    margin:auto;
+}
